@@ -3,7 +3,7 @@
         {
             "ability": {
                 "name": "imposter",
-                "url": "https://pokeapi.co/api/v2/ability/150/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/ability/150/"
             },
             "is_hidden": true,
             "slot": 3
@@ -11,7 +11,7 @@
         {
             "ability": {
                 "name": "limber",
-                "url": "https://pokeapi.co/api/v2/ability/7/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/ability/7/"
             },
             "is_hidden": false,
             "slot": 1
@@ -21,7 +21,7 @@
     "forms": [
         {
             "name": "ditto",
-            "url": "https://pokeapi.co/api/v2/pokemon-form/132/"
+            "url": "https://challenges.hackajob.co/pokeapi/api/v2/pokemon-form/132/"
         }
     ],
     "game_indices": [
@@ -29,56 +29,56 @@
             "game_index": 132,
             "version": {
                 "name": "black-2",
-                "url": "https://pokeapi.co/api/v2/version/21/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/21/"
             }
         },
         {
             "game_index": 132,
             "version": {
                 "name": "black",
-                "url": "https://pokeapi.co/api/v2/version/17/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/17/"
             }
         },
         {
             "game_index": 132,
             "version": {
                 "name": "heartgold",
-                "url": "https://pokeapi.co/api/v2/version/15/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/15/"
             }
         },
         {
             "game_index": 132,
             "version": {
                 "name": "pearl",
-                "url": "https://pokeapi.co/api/v2/version/13/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/13/"
             }
         },
         {
             "game_index": 132,
             "version": {
                 "name": "firered",
-                "url": "https://pokeapi.co/api/v2/version/10/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/10/"
             }
         },
         {
             "game_index": 132,
             "version": {
                 "name": "ruby",
-                "url": "https://pokeapi.co/api/v2/version/7/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/7/"
             }
         },
         {
             "game_index": 132,
             "version": {
                 "name": "gold",
-                "url": "https://pokeapi.co/api/v2/version/4/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/4/"
             }
         },
         {
             "game_index": 76,
             "version": {
                 "name": "red",
-                "url": "https://pokeapi.co/api/v2/version/1/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/1/"
             }
         }
     ],
@@ -87,63 +87,63 @@
         {
             "item": {
                 "name": "metal-powder",
-                "url": "https://pokeapi.co/api/v2/item/234/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/item/234/"
             },
             "version_details": [
                 {
                     "rarity": 5,
                     "version": {
                         "name": "moon",
-                        "url": "https://pokeapi.co/api/v2/version/28/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/28/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "x",
-                        "url": "https://pokeapi.co/api/v2/version/23/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/23/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "black-2",
-                        "url": "https://pokeapi.co/api/v2/version/21/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/21/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "black",
-                        "url": "https://pokeapi.co/api/v2/version/17/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/17/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "heartgold",
-                        "url": "https://pokeapi.co/api/v2/version/15/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/15/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "diamond",
-                        "url": "https://pokeapi.co/api/v2/version/12/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/12/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "firered",
-                        "url": "https://pokeapi.co/api/v2/version/10/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/10/"
                     }
                 },
                 {
                     "rarity": 5,
                     "version": {
                         "name": "ruby",
-                        "url": "https://pokeapi.co/api/v2/version/7/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version/7/"
                     }
                 }
             ]
@@ -151,34 +151,34 @@
     ],
     "id": 132,
     "is_default": true,
-    "location_area_encounters": "https://pokeapi.co/api/v2/pokemon/132/encounters",
+    "location_area_encounters": "https://challenges.hackajob.co/pokeapi/api/v2/pokemon/132/encounters",
     "moves": [
         {
             "move": {
                 "name": "transform",
-                "url": "https://pokeapi.co/api/v2/move/144/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/move/144/"
             },
             "version_group_details": [
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "yellow",
-                        "url": "https://pokeapi.co/api/v2/version-group/2/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version-group/2/"
                     }
                 },
                 {
                     "level_learned_at": 1,
                     "move_learn_method": {
                         "name": "level-up",
-                        "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/move-learn-method/1/"
                     },
                     "version_group": {
                         "name": "red-blue",
-                        "url": "https://pokeapi.co/api/v2/version-group/1/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/version-group/1/"
                     }
                 }
             ]
@@ -188,7 +188,7 @@
     "order": 195,
     "species": {
         "name": "ditto",
-        "url": "https://pokeapi.co/api/v2/pokemon-species/132/"
+        "url": "https://challenges.hackajob.co/pokeapi/api/v2/pokemon-species/132/"
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png",
@@ -206,7 +206,7 @@
             "effort": 0,
             "stat": {
                 "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/stat/6/"
             }
         },
         {
@@ -214,7 +214,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/stat/5/"
             }
         },
         {
@@ -222,7 +222,7 @@
             "effort": 0,
             "stat": {
                 "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/stat/4/"
             }
         },
         {
@@ -230,7 +230,7 @@
             "effort": 0,
             "stat": {
                 "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/stat/3/"
             }
         },
         {
@@ -238,7 +238,7 @@
             "effort": 0,
             "stat": {
                 "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/stat/2/"
             }
         },
         {
@@ -246,7 +246,7 @@
             "effort": 1,
             "stat": {
                 "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/stat/1/"
             }
         }
     ],
@@ -255,7 +255,7 @@
             "slot": 1,
             "type": {
                 "name": "normal",
-                "url": "https://pokeapi.co/api/v2/type/1/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/type/1/"
             }
         }
     ],

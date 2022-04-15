@@ -7,6 +7,8 @@ import postcssFlexbugsFixes from 'postcss-flexbugs-fixes';
 
 export default () => ({
     webpack: (config, {stage}) => {
+        config.output.publicPath = "/pokeapi/";
+
         config.module.rules[0].oneOf.unshift({
             test: /\.s(a|c)ss$/,
             use: initLoaders({stage, modules: false}),

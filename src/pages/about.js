@@ -124,7 +124,7 @@ export default function About() {
                     During summer 2018, Paul decided to hand over the project to the community. This is where Tim Malone, Mark Tse, Sargun Vohra, Charles Marttinen, Alessandro Pezzé, Alberto Oliveira da Silva, and Lucio Merotta came together and started planning how to change the infrastructure in order to improve performance and cut down on hosting costs. An important step was to convert the API to serve static JSON files, which was made possible by Sargun and his excellent <a href="https://github.com/PokeAPI/ditto">PokeAPI/ditto</a> tool. The frontend website was also re-built by Charles at the same time. The whole process was completed in October 2018.
                 </p>
                 <p>
-                    After this massive redesign, PokéAPI gained many new consumers due to its new blazing fast performance. To give a quick reference, the loading of the infamous <a href="https://pokeapi.co/api/v2/pokemon/magikarp">Magikarp pokemon resouce</a> passed from seconds to ~80ms. 
+                    After this massive redesign, PokéAPI gained many new consumers due to its new blazing fast performance. To give a quick reference, the loading of the infamous <a href="https://challenges.hackajob.co/pokeapi/api/v2/pokemon/magikarp">Magikarp pokemon resouce</a> passed from seconds to ~80ms.
                     
                     An important milestone for the PokéAPI project happened shortly after in summer 2020, when its GitHub repository reached <strong>2000 stargazers</strong> and in a single month fulfilled <strong>100 million</strong> API calls.
                 </p>

@@ -3,12 +3,14 @@ import marked from 'marked';
 import path from 'path';
 import slugify from 'slugify';
 
-const BASE_URL = 'https://pokeapi.co/api';
+const BASE_URL = 'https://challenges.hackajob.co/pokeapi/api';
 
 export default {
+    basePath: 'pokeapi',
+
     plugins: [
         'react-static-plugin-react-router',
-        ['react-static-plugin-google-tag-manager', {id: 'GTM-MD89GGQ'}],
+        ['react-static-plugin-google-tag-manager', {id: ''}],
     ],
     minLoadTime: 200,
 

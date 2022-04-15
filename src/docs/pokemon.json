@@ -1482,7 +1482,7 @@
             "form_name": "bug",
             "pokemon": {
                 "name": "arceus",
-                "url": "https://pokeapi.co/api/v2/pokemon/493/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/pokemon/493/"
             },
             "sprites": {
                 "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/493-bug.png",
@@ -1499,13 +1499,13 @@
                     "slot": 1,
                     "type": {
                         "name": "bug",
-                        "url": "https://pokeapi.co/api/v2/type/7/"
+                        "url": "https://challenges.hackajob.co/pokeapi/api/v2/type/7/"
                     }
                 }
             ],
             "version_group": {
                 "name": "diamond-pearl",
-                "url": "https://pokeapi.co/api/v2/version-group/8/"
+                "url": "https://challenges.hackajob.co/pokeapi/api/v2/version-group/8/"
             }
         },
         "responseModels": [

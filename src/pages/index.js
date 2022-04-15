@@ -35,7 +35,7 @@ export default () => (
         </div>
 
         <PlainPageSection>
-            <ApiExplorer baseApiUrl="https://pokeapi.co/api/v2/" />
+            <ApiExplorer baseApiUrl="https://challenges.hackajob.co/pokeapi/api/v2/" />
 
             <div className={styles.faqs}>
                 <div className={styles.faq}>
