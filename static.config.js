@@ -8,8 +8,6 @@ const BASE_URL = 'https://challenges.hackajob.co/pokeapi/api';
 export default {
     basePath: 'pokeapi',
 
-    dist: 'dist/pokeapi',
-
     plugins: [
         'react-static-plugin-react-router',
         ['react-static-plugin-google-tag-manager', {id: ''}],
